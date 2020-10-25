@@ -1,5 +1,5 @@
 ----------------------------------------------Para jugar------------------------------------------
-El juego que se encuentra en el .jar es el clasico Sudoku, presentando el tablero de juego y a su 
+El juego que se encuentra en el .jar es el clasico Sudoku, presentado el tablero de juego y a su 
 derecha las posibles opciones a seleccionar junto con el tiempo transcurrido. 
 Lo primero que hay que hacer es presionar la celda que se quiere modificar y seleccionar la opcion 
 que se quiere colocar, la caracteristica es que si al modificar una celda se ocasiona un error, no 
